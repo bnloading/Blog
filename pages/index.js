@@ -25,7 +25,7 @@ export default function Home() {
                   <Col md={10}>
                     <Card.Body>
                       <Card.Title className="font-weight-bold mb-0">
-                        Nur`s Blog Website
+                        Blog Website
                       </Card.Title>
                       <Card.Text className="welcome-text">
                         fdsfhsk pifghg p hgifdphg fipghpfdg podfhgghp pohgdfp hg
