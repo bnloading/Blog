@@ -9,7 +9,7 @@ export default () => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
           <Nav.Link className="fj-navbar-item fj-navbar-link" href="/">
-            Негізгі бет
+            Негізгі бетn
           </Nav.Link>
         </Nav>
       </Navbar.Collapse>
