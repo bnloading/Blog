@@ -1,4 +1,4 @@
-import { Container, Row, Col, Navbar, Image, Card, Nav } from "react-bootstrap";
+import { Navbar, Nav } from "react-bootstrap";
 
 const MyNavbar = () => {
   return (
