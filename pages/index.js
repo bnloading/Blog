@@ -44,7 +44,7 @@ export default function Home({ posts }) {
       </div>
       <footer className="page-footer">
         <div>
-          <a href="#">Бет2</a>
+          <a href="#">Бет</a>
           {" | "}
           <a href="#">сургалт</a>
           {" | "}
