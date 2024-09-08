@@ -1,6 +1,7 @@
+/* eslint-disable react/display-name */
 import { Navbar, Nav } from "react-bootstrap";
 
-// eslint-disable-next-line import/no-anonymous-default-export, react/display-name
+// eslint-disable-next-line import/no-anonymous-default-export
 export default () => {
   return (
     <Navbar className="fj-navbar fj-nav-base" bg="transparent" expand="lg">
