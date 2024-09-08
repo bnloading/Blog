@@ -27,7 +27,7 @@ export default () => {
               Blog Website
             </Card.Title>
             <Card.Text className="welcome-text">
-              fdsfhsk pifghg p hgifdphg fipghpfdg podfhgghp pohgdfp hg
+              fdsfhsk pifghg p hgifdphg fipghpfdg podfhgghp
             </Card.Text>
           </Card.Body>
         </Col>
