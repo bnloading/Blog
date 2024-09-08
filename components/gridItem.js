@@ -22,11 +22,11 @@ export default ({ post }) => {
           </div>
         </Card.Header>
         <Link href={`/${post.slug}`} passHref>
-          <div className="view overlay">
+          <div classyName="view overlay">
             <Card.Img
               src={post.image}
               className="rounded-circle mr-5"
-              alt="image-cap"
+              alt="image"
             />
           </div>
           <Card.Body>

@@ -1,21 +1,19 @@
 import { Navbar, Nav } from "react-bootstrap";
 
-const MyNavbar = () => {
+export default () => {
   return (
-    <Navbar className="fj-navbar fj navbase" bg="transparent" expand="lg">
+    <Navbar className="fj-navbar fj-nav-base" bg="transparent" expand="lg">
       <Navbar.Brand className="fj-navbar-brand">
-        <a href="#">Blog App</a>
+        <a href="#">1234 БЛОГ</a>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="ms-auto">
+        <Nav className="ml-auto">
           <Nav.Link className="fj-navbar-item fj-navbar-link" href="/">
-            Негізгі бет
+            НҮҮР
           </Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
   );
 };
-
-export default MyNavbar;
